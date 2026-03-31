@@ -8,6 +8,7 @@
 
 ```bash
 cd CH05Ballot/Ballot
+npm install
 npx hardhat compile
 npx hardhat node
 
